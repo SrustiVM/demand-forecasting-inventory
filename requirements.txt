@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+joblib
+scikit-learn
+lightgbm
+fastapi
+uvicorn[standard]
