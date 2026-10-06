@@ -1,4 +1,7 @@
 # DemandForecast — Demand Forecasting & Inventory Optimization
+## Live API
+
+[Open DemandForecast API](https://demand-forecasting-inventory-api.onrender.com/docs)
 
 ## Overview
 
