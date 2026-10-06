@@ -6,3 +6,4 @@ scikit-learn
 lightgbm
 fastapi
 uvicorn[standard]
+httpx
